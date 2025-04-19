@@ -73,8 +73,16 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="DJR24NLSc45UjhZxEUbC-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DJR24NLSc45UjhZxEUbC-20">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="510" y="585" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="DJR24NLSc45UjhZxEUbC-20" value="R &amp;lt; pivot || R &amp;lt; L" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="342.5" y="550" width="115" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="DJR24NLSc45UjhZxEUbC-23" value="MOVE BACKWARD" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="557.5" width="80" height="55" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
